@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/asm-analysis-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/asm-commons-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/asm-tree-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/asm-util-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/cassandra-driver-core-3.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/cassandra-driver-extras-3.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/cassandra-driver-mapping-3.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/jffi-1.2.10.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/jffi-1.2.10-native.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/jnr-constants-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/jnr-ffi-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/jnr-posix-3.0.27.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/jnr-x86asm-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/metrics-core-3.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/netty-buffer-4.0.37.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/netty-codec-4.0.37.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/netty-common-4.0.37.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/netty-handler-4.0.37.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/netty-transport-4.0.37.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/cassandra_driver/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

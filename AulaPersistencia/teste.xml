@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<livraria>
+    <livro ano="2000">
+        <titulo>Meu amigo Flip</titulo>
+        <autores>
+            <autor>Elisabete</autor>
+            <autor>Yago</autor>
+        </autores>
+        <editora>Ciranda</editora>
+    </livro>
+</livraria>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/byte-buddy-1.8.17.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/hibernate-commons-annotations-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/hibernate-core-5.3.6.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/hibernate-validator-6.0.13.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/hibernate-validator-annotation-processor-6.0.13.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/hibernate-validator-cdi-6.0.13.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/javassist-3.23.1-GA.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/javax.el-3.0.1-b09.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/paranamer-2.8.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/postgresql-9.2-1002.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/home/yaagocruuz/Área de Trabalho/Persistencia/hibernate-libs/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
